@@ -196,3 +196,7 @@
           </nav>
 
           <!-- / Navbar -->
+          
+          <!-- Content wrapper -->
+          <div class="content-wrapper">
+            <!-- Content -->
